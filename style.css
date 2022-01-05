@@ -111,3 +111,20 @@ body{
 
 }
 /*closing 2nd part*/
+
+
+/*third part*/
+#section-three{
+    display: flex;
+}
+
+#third-sec-first-pic{
+    width: 400px;
+
+}
+.third-sec-cont{
+    margin-left: 100px;
+}
+
+
+/*closing third part*/
